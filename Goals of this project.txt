@@ -1,0 +1,11 @@
+Goal of this project is to find-:
+1. Mean speed of all the rides.
+2. Number of rides taken in february
+3. Number of rides where tip more than $50
+4. Number of rides where drop was JFK airport.
+5. max toll amount paid
+6. min toll amount paid
+7. finding unique pickup locations code
+8. Finding variance of speed of cab
+9. Sorting the Fare amount of cab in ascending order
+10. searching a particular value in column trip_distance
